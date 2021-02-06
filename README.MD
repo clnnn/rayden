@@ -22,6 +22,7 @@
 - **Callbacks** (alternatives to rxJS)
 - Injectable **Angular** Service
 - Support for **modern browsers** (E.g. Chrome)
+- nrwl workspace? (core libs, bindings, angular service)
 
 *Some features are not compatible with one with another but this will be clear after the implementation starts.*
 
