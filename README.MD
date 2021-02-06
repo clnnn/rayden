@@ -15,7 +15,7 @@
 - **Kotlin** Bindings (+coroutines)
 - **Spring Boot** starter
 
-### Client (chidori-client):
+### Client (rayden-client):
 
 - Implemented in **TypeScript**
 - **rxJS** Bindings
