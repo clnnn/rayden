@@ -36,3 +36,4 @@ Development features (*should be achieved using free and open-source solutions*)
 * Minimized dependency on other libraries
 * Easy to setup development environment
 * Generated documentation
+* JMeter tutorial
